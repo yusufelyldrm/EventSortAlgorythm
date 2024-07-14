@@ -1,0 +1,15 @@
+/Users/yusufelyildirim/Desktop/dotnet/ConsoleApp2/LenaAlgorythmProject/bin/Debug/net7.0/LenaAlgorythmProject
+/Users/yusufelyildirim/Desktop/dotnet/ConsoleApp2/LenaAlgorythmProject/bin/Debug/net7.0/LenaAlgorythmProject.deps.json
+/Users/yusufelyildirim/Desktop/dotnet/ConsoleApp2/LenaAlgorythmProject/bin/Debug/net7.0/LenaAlgorythmProject.runtimeconfig.json
+/Users/yusufelyildirim/Desktop/dotnet/ConsoleApp2/LenaAlgorythmProject/bin/Debug/net7.0/LenaAlgorythmProject.dll
+/Users/yusufelyildirim/Desktop/dotnet/ConsoleApp2/LenaAlgorythmProject/bin/Debug/net7.0/LenaAlgorythmProject.pdb
+/Users/yusufelyildirim/Desktop/dotnet/ConsoleApp2/LenaAlgorythmProject/obj/Debug/net7.0/LenaAlgorythmProject.csproj.AssemblyReference.cache
+/Users/yusufelyildirim/Desktop/dotnet/ConsoleApp2/LenaAlgorythmProject/obj/Debug/net7.0/LenaAlgorythmProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yusufelyildirim/Desktop/dotnet/ConsoleApp2/LenaAlgorythmProject/obj/Debug/net7.0/LenaAlgorythmProject.AssemblyInfoInputs.cache
+/Users/yusufelyildirim/Desktop/dotnet/ConsoleApp2/LenaAlgorythmProject/obj/Debug/net7.0/LenaAlgorythmProject.AssemblyInfo.cs
+/Users/yusufelyildirim/Desktop/dotnet/ConsoleApp2/LenaAlgorythmProject/obj/Debug/net7.0/LenaAlgorythmProject.csproj.CoreCompileInputs.cache
+/Users/yusufelyildirim/Desktop/dotnet/ConsoleApp2/LenaAlgorythmProject/obj/Debug/net7.0/LenaAlgorythmProject.dll
+/Users/yusufelyildirim/Desktop/dotnet/ConsoleApp2/LenaAlgorythmProject/obj/Debug/net7.0/refint/LenaAlgorythmProject.dll
+/Users/yusufelyildirim/Desktop/dotnet/ConsoleApp2/LenaAlgorythmProject/obj/Debug/net7.0/LenaAlgorythmProject.pdb
+/Users/yusufelyildirim/Desktop/dotnet/ConsoleApp2/LenaAlgorythmProject/obj/Debug/net7.0/LenaAlgorythmProject.genruntimeconfig.cache
+/Users/yusufelyildirim/Desktop/dotnet/ConsoleApp2/LenaAlgorythmProject/obj/Debug/net7.0/ref/LenaAlgorythmProject.dll
